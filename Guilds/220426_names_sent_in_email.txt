@@ -1,0 +1,17 @@
+220426_guild_name
+Actinomarina (ultra-microbe, DOM as C source, prob smaller than SAR11)	
+Alcanivorax (hydrocarbon degrader potentially, copiotroph)	
+Alteromonadales (copiotroph, not sure what differentiates it from Vibrio but we did see it as very abundant in equatorial regions)	
+Dadabacteria (see Elaina Graham's work, probably specializing on degrading cell membrane components according to what I recall)	
+Flavobacteriales (selfish uptake, huge variability in substrates, well-studied)	
+Planctomycetes (complex morphology, particle-associated)	
+Rhodobacteraceae (somewhere between copio and SAR11, but huge trait variability within the group)	
+SAR11 (similar to Actinomarina but not clear what differentiates them ecologically, tends to be far more abundant than Actinos)	
+SAR202 (our favourite recalcitrant DOM degrader)	
+SAR324 (enigmatic, may have strange C-processing pathways)	
+SAR406 (enigmatic, may have strange C-processing pathways)	
+SAR86 (thought to use protein and lipids, the one I mentioned previously that might be specialized on colloids)	
+SUP05 (the weird fried-egg shape one, becomes very abundant in northern/southern ocean)	
+Thermoplasmata (otherwise known as MGII Archaea, they seem to overlap somewhat with SAR86 in terms of metabolism, bloom-associated so maybe they can break down material a bit faster)	
+Verrucomicrobia (similar in my mind to Planctomycetes, not sure what distinguishes them)	
+Vibrionales	

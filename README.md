@@ -18,9 +18,9 @@ https://github.com/jcmcnch/GlobalUniveralMetabarcodingOfPlankton/blob/main/GO-SH
 ./scripts/get-hetbac-archaea-only.sh 221118-1030_P16N-S_3.84-fold-18S-correction_merged_16S_18S_proportions.QCd.tsv 221118-1030_P16N-S_3.84-fold-18S-correction_merged_16S_18S_proportions.QCd.prok-nonphoautototrophic.tsv
 ```
 
-2. To run `BLASTn` against GTDB, requiring at least 95% similarity (~genus-level; [Yarza et al., 2014](https://www.nature.com/articles/nrmicro3330) and 100% coverage of the ASV sequence:
+2. To run `BLASTn` against GTDB, requiring at least 95% similarity (~genus-level; [Yarza et al., 2014](https://www.nature.com/articles/nrmicro3330)) and 100% coverage of the ASV sequence:
 
 ```
-scripts/00-makeblastdb.sh
-scripts/01-blast-everything.sh
+./scripts/00-makeblastdb.sh
+./scripts/01-blast-everything.sh
 ```

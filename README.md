@@ -1,5 +1,7 @@
 ## Microheterotroph Modelling
 
+Note: added public release on 2025-01-19 for publication purposes. Will add `CITATION.cff` once Zenodo generates DOI.
+
 - Raw data source:
 
 https://osf.io/57dpa/

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "McNichol"
+  given-names: "Jesse"
+  orcid: "https://orcid.org/0000-0002-8870-7726"
+title: ""MicroheterotrophModelling 
+version: 1.0.0
+date-released: 2025-01-19
+url: "https://github.com/jcmcnch/ProPortal-ASV-Annotation"
